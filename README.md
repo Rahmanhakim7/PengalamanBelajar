@@ -15,3 +15,15 @@ Belajar kelas Memulai Pemrograman dengan Javascript. (Progres 48%)
   * Belajar control flow dalam Javascript, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
+
+**11 Agustus 2023**    
+
+Belajar kelas Memulai Pemrograman dengan Javascript. (Progres 50%)
+
+  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+
+  * Belajar class-class yang sering digunakan dalam bahasa Javascript
+    
+  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
+
+  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
